@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/ReactNative-black?style=flat&logo=React&logoColor=B7178C"/>
 <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=Redux&logoColor=764ABC"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssumthingood&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssumthingood&layout=compact&theme=tokyonight)
 
 
 
