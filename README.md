@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/ReactNative-black?style=flat&logo=React&logoColor=B7178C"/>
 <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=Redux&logoColor=764ABC"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssumthingood&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=ssumthingood&layout=compact&theme=tokyonight)
 
 ### 📱 Contact
 <a href="https://www.instagram.com/ssumthin_good/" rel="nofollow" target="_blank"><img target="_blank" src="https://img.shields.io/badge/@ssumthin__good-black?style=flat&logo=Instagram&logoColor=E4405F"/></a>
