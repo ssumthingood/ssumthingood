@@ -1,5 +1,5 @@
 # ssumthingood
-💻 _CSE student_<br/>
+💻 _CSE student(graduated!!)_<br/>
 🧐 _Growing front-end developer_
 
 ### 👨🏻‍💻 Now Learning... 
