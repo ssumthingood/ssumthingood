@@ -1,4 +1,4 @@
-# ssumthingood
+# parkBuNong
 
 깃허브어떻게꾸밀지고민하는중
 
